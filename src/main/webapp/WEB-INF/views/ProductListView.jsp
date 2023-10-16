@@ -37,6 +37,7 @@
                             <td><a href="editProduct?code=${p.code}">Edit</a></td>
                             <td><a href="deleteProduct?code=${p.code}">Delete</a></td>
                             <td><a href="themProduct?code=${p.code}">Them</a></td>
+                            <td><a href="updateProduct?code=${p.code}">Update</a></td>
                         </tr>
                     </c:forEach>
 
